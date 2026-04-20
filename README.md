@@ -40,6 +40,7 @@ You can interact with the live deployed model here:
    pip install -r requirements.txt
 
 3. ***Set up your Environment Variables:***
+
    Rename .env.example to .env.
 
    Add your free Groq API key: GROQ_API_KEY=your_key_here.
