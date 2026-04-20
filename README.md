@@ -41,8 +41,9 @@ You can interact with the live deployed model here:
 
 3. ***Set up your Environment Variables:***
    Rename .env.example to .env.
+
    Add your free Groq API key: GROQ_API_KEY=your_key_here.
-4. **Run the App:**
+5. **Run the App:**
    ```bash
    python app.py   
 The Gradio app will launch locally at http://127.0.0.1:7860/
